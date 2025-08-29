@@ -1,1 +1,1 @@
-# Insider_Threat_Detection_System_SUAS
+# Insider_Threat_Detection_System_Frontend
